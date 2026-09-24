@@ -15,4 +15,18 @@ Hi 👋, I'm Abhishek Chaudhary<br><br>🎓 A student learning software developm
 ---
 [![](https://visitcount.itsvg.in/api?id=abhichaudhary25829-JS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhichaudhary25829-JS&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhichaudhary25829-JS&layout=compact&theme=tokyonight" />
+</p>
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhichaudhary25829-JS&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhichaudhary25829-JS&layout=compact&theme=tokyonight" />
+</p>
